@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>магазин алгоритмика от ученика</title>
+   <link rel="stylesheet"
+    href="style.css">
+  </head>
+  <h1>Shop in the Algoritmika</h1>
+  h1 {
+    text-align:center;
+ }
+  <h2>коврики для мыши</h2>
+  a {
+  border:2px solid blue;
+  border-radius:15px;
+ }
+  
+  <p>Нажми на кнопки и зайдешь на сайты с мышками</p>
+  <p><a href="https://www.ozon.ru/product/igrovoy-kovrik-dlya-myshi-defender-black-50560-chernyy-169865143/?gclsrc=aw.ds&&utm_source=google&utm_medium=cpc&utm_campaign=RF_REG_Product_Shopping_super_mp_all&gclid=EAIaIQobChMI3KLA-7Gi7gIVx9myCh3fGgaZEAQYAyABEgJ1x_D_BwE">Озон</a></p>
+  <p><a href="https://www.mvideo.ru/products/igrovoi-kovrik-razer-goliathus-2013-speed-large-rz02-01070300-r3m1-50041466">М.видео</a></p>
+  <p><a href="https://www.citilink.ru/catalog/computers_and_notebooks/periferiya/mousepads/1433807/?mrkt=krd_cl&utm_param1=all&gclid=EAIaIQobChMIttzmsLei7gIVPUeRBR0QUQSKEAQYAiABEgIfZ_D_BwE">Ситилинк</a></p>
+  <h3>Мышки</h3>
+  <p><a href="https://www.eldorado.ru/cat/detail/igrovaya-mysh-logitech-g102-lightsync-black-910-005823/?location=Murmanskaya_oblast__Murmansk&gclid=EAIaIQobChMIyIv_grmi7gIViKSyCh1CbADbEAQYAiABEgL12fD_BwE">Эльдорадо</a></p>
+  <p><a href="https://www.mvideo.ru/products/igrovaya-mysh-razer-deathadder-essential-rz01-02540100-r3m1-50131071">М.Видео</a></p>
+  <p><a href="https://www.dns-shop.ru/product/8de46b99705a4699/mys-provodnaa-a4tech-bloody-a7-cernyj/?utm_source=ga_smart_krasnodar&utm_medium=cpc&utm_campaign=ga_smart_ug_krasnodar_0920&utm_content=gmc&utm_term=6732628&gclid=EAIaIQobChMIvp-Glbqi7gIVH0CRBR2GcgApEAQYASABEgJZ5vD_BwE">ДНС</a></p>
+  
+ </html>
